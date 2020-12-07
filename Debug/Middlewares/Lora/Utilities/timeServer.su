@@ -1,0 +1,14 @@
+timeServer.c:177:13:TimerInsertTimer	8	static
+timeServer.c:341:13:TimerExists	0	static
+timeServer.c:419:13:TimerSetTimeout	16	static
+timeServer.c:201:13:TimerInsertNewHeadTimer	8	static
+timeServer.c:129:6:TimerInit	0	static
+timeServer.c:138:6:TimerStart	16	static
+timeServer.c:215:6:TimerIrqHandler	8	static
+timeServer.c:268:6:TimerStop	8	static
+timeServer.c:356:6:TimerReset	8	static
+timeServer.c:362:6:TimerSetValue	16	static
+timeServer.c:380:6:TimerSetValueFloat	16	static
+timeServer.c:398:13:TimerGetCurrentTime	8	static
+timeServer.c:404:8:TimerGetCurrentTimeFloat	8	static
+timeServer.c:411:13:TimerGetElapsedTime	16	static
